@@ -8,9 +8,9 @@ examples
 
 travis
 # required for Docker build
-!travis/small-requirements.txt
-!travis/large-requirements.txt
-!travis/lint-requirements.txt
+# !travis/small-requirements.txt
+# !travis/large-requirements.txt
+# !travis/lint-requirements.txt
 
 tests
 # required for Docker build
